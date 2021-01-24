@@ -34,8 +34,8 @@ public class SFDCStopTeamController {
             new Contributor(
                 'Koushik Bose',
                 'https://avatars3.githubusercontent.com/u/66051548?s=400&v=4',
-                Date.newInstance(2021, 01, 25),            
-                'https://www.linkedin.com/in/koushik-bose-%E2%98%81%EF%B8%8F-%E2%9A%A1-601729186/'
+                Date.newInstance(2021, 01, 25),
+                'https://www.linkedin.com/in/animesh-mallick-b06648190/'
             )
         );
         sfdcstopContributors.add(
@@ -43,7 +43,7 @@ public class SFDCStopTeamController {
                 'Animesh Mallick',
                 'https://avatars3.githubusercontent.com/u/66051548?s=400&v=4',
                 Date.newInstance(2021, 01, 25),
-                'https://www.linkedin.com/in/animesh-mallick-b06648190/'
+                'https://trailblazer.me/id/ssingh105'
             )
         );
     //     sfdcstopContributors.add(

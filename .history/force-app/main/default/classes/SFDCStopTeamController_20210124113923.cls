@@ -43,7 +43,7 @@ public class SFDCStopTeamController {
                 'Animesh Mallick',
                 'https://avatars3.githubusercontent.com/u/66051548?s=400&v=4',
                 Date.newInstance(2021, 01, 25),
-                'https://www.linkedin.com/in/animesh-mallick-b06648190/'
+                https://www.linkedin.com/in/animesh-mallick-b06648190/''
             )
         );
     //     sfdcstopContributors.add(
